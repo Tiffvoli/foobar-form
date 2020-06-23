@@ -20,7 +20,7 @@
     "react-svg": "^11.0.22",
     "styled-components": "^5.1.1"
   },
-  "homepage": "https://subangi.dk/kea/foobar-exam",
+  "homepage": "https://tiffvoli.com/foobar-form-1",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

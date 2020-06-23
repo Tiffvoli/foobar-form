@@ -11,6 +11,13 @@
   text-align: center;
   margin: 1vw auto;
 }
+.buttonEnding:hover {
+  background-color: var(--pink-highlight);
+  color: var(--big-button-colors);
+  -webkit-box-shadow: inset -4px -4px 0px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: inset -4px -4px 0px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: inset -4px -4px 0px 0px rgba(0, 0, 0, 0.4);
+}
 /* iPad verticle */
 @media screen and (min-width: 768px) {
   .buttonEnding {
